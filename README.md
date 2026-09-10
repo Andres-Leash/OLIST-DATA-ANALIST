@@ -7,4 +7,4 @@ The Raw data was ignored because the size of the files are bigger than expected.
 
 Info
 -------
-To install de dependences, use the requirements listed in the directory.
+To install the dependences, use the requirements listed in the directory.
